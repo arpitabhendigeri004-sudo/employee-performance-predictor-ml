@@ -158,11 +158,10 @@ streamlit run dashboard/app.py
 ---
 
 ## 📸 Screenshots
-
-(<img width="960" height="540" alt="aa3" src="https://github.com/user-attachments/assets/ada3f303-6c0a-4e91-9185-5d87fbecd1cf" />
-<img width="960" height="540" alt="ss2" src="https://github.com/user-attachments/assets/59f5c74b-9b37-4aaa-bc7e-a577212a2cc4" />
 <img width="960" height="540" alt="ss1" src="https://github.com/user-attachments/assets/bda77927-76e2-4a5d-8f89-31b87e5b3555" />
-)
+<img width="960" height="540" alt="ss2" src="https://github.com/user-attachments/assets/59f5c74b-9b37-4aaa-bc7e-a577212a2cc4" />
+<img width="960" height="540" alt="aa3" src="https://github.com/user-attachments/assets/ada3f303-6c0a-4e91-9185-5d87fbecd1cf" />
+
 
 * Dashboard UI
 * Prediction Output
